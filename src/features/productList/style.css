@@ -1,0 +1,24 @@
+.pagination-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.pagination-inner {
+  display: flex;
+}
+.list-product-wrap {
+  width: 100%;
+  padding: 16px;
+  background-color: darkgrey;
+  height: 100vh;
+}
+.list-product-wrap-inner {
+  background-color: white;
+  height: -webkit-fill-available;
+}
+.content {
+  background-color: white;
+}
+.search-list {
+  background-color: white;
+}
